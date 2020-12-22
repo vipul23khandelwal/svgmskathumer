@@ -1,0 +1,13 @@
+.style-h4{
+    background-color: #1885d9;
+    color: #fff;
+    height: 3.5rem;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+.style-h4 h4{
+    padding-top: 0.9rem;
+    
+}
